@@ -6,3 +6,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
     The files only needed for tracking are put to staging dir. These are being prepared to commit. This help us to include only needed files.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+
+    You can edit multiple files at once. But you can add to staging area
+    only those files that are going to be committed. Also it's easy to
+    track differences between those.
