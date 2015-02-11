@@ -13,3 +13,9 @@ logical change?
     You can edit multiple files at once. But you can add to staging area
     only those files that are going to be committed. Also it's easy to
     track differences between those.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    When you want to make some changes in code which should not impact the main
+    project line. E.g. you want to add a new feature, but it isn't intended to
+    be in main project.
