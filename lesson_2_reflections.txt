@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    The metadata of the git project is created. It is stored in
+    the directory .git. I need it to keep track of file versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The files only needed for tracking are put to staging dir. These are being prepared to commit. This help us to include only needed files.
