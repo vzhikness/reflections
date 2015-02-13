@@ -1,5 +1,13 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your
+work local?
 
-  If you want to share your work with other people or if you work at two computers
-  then it would be cool to keep a copy of your project on remote server.
+  If you want to share your work with other people or if you work 
+  at two computers then it would be cool to keep a copy of your
+  project on remote server.
   
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+  Because I don't always need all the updates from the remote. If it would
+  automatically, then it may cause problems conflict with existing. So it is
+  better to have control over it.
