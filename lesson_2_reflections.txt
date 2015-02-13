@@ -32,3 +32,11 @@ it in the diagram the way we do?
 
     New lines from a new branch are put in the master branch. To understand it
     better.
+
+What are the pros and cons of Git’s automatic merging vs. always
+doing merges manually?
+
+    Automatic makes it easier to merge branches, but sometimes there might be
+    conficts which should be resolved manually. So it's a goot point.
+    Manual merges might take more work and have more control, but there might be
+    more errors during merging.
