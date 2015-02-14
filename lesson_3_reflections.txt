@@ -26,3 +26,9 @@ stored locally?
 
   It's good for comparing the states of remote and local repos. It also might
   help to show conflicts between local and remote versions.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+  I guess we might be using emails and tracking it manually. It would be easier
+  to add changes to the repository but harder to track and manage them.
