@@ -11,3 +11,12 @@ automatically stay up-to-date with your remote repository?
   Because I don't always need all the updates from the remote. If it would
   automatically, then it may cause problems conflict with existing. So it is
   better to have control over it.
+
+Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+
+  Branch is another story of commits which starts from one point in master's
+  branch. Clone is a copy of a repository, it contains all files and history.
+  Fork is just a feature of GitHub, it's almost clone but done by GitHub
+  for you on their servers. Also it saves number of forking and leave
+  reference in a forked repo.
