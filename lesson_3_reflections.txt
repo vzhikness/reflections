@@ -20,3 +20,9 @@ you use one instead of another?
   Fork is just a feature of GitHub, it's almost clone but done by GitHub
   for you on their servers. Also it saves number of forking and leave
   reference in a forked repo.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  It's good for comparing the states of remote and local repos. It also might
+  help to show conflicts between local and remote versions.
