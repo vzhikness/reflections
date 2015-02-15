@@ -32,3 +32,9 @@ and what would be harder?
 
   I guess we might be using emails and tracking it manually. It would be easier
   to add changes to the repository but harder to track and manage them.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+  When you don't want to break a master. Or when you want to create a pull
+  request that will be merged with master without conflicts.
